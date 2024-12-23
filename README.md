@@ -4,7 +4,7 @@
 # **Machine Learning Projects**
 
 ## - **Pilot Machine Learning Project**
-[link to code](file:///Users/raffaelesimbari/Desktop/M.L./Individual%20project/mldata_0003185670/ML_Individual_Project.html)
+[link to code](ML_Individual_Project.html)
 
 ### Introduction
 This project explores the use of Principal Component Analysis (PCA) for dimensionality reduction in combination with Logistic Regression to classify a dataset containing 1400 samples and 20 features. 
