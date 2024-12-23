@@ -4,6 +4,7 @@
 # **Machine Learning Projects**
 
 ## - **Individual Machine Learning Project**
+[link to code](file:///Users/raffaelesimbari/Desktop/M.L./Individual%20project/mldata_0003185670/ML_Individual_Project.html)
 
 
 ## - **AI Lab** 
@@ -69,6 +70,16 @@ The primary objective of this project is to identify key drivers of life expecta
 In this project, we extend the classical Lotka-Volterra model by revisiting and adapting it to handle more complex, real-world scenarios involving multiple species. The primary objective is to simulate predator-prey interactions in a multi-species environment, first with two species (a predator and a prey) and then with three species (introducing a third species to interact with both the predator and the prey). This approach allows for a more comprehensive understanding of ecological stability and species coexistence in ecosystems with more intricate food webs.
 
 ### Project Workflow
+
+1. *Initial Two-Species Model*
+   - Study the classic Lotka-Volterra model for a predator-prey system with two species, implement Euler method and Runge-Kutta 4th order method to solve the system of differential equations. Plot the populations of prey and predator over time to observe oscillations and interactions and compare the results between Euler and Runge-Kutta methods for accuracy.
+
+2. *Introduction of a Third Species*
+   - Introduce a third species into the system and update the equations to account for interactions with both prey and predator.
+Solve the extended system with the third species using the same numerical methods and investigate how the third species interacts with both the prey and the predator populations.
+Observe how it impacts the dynamics of the original two-species system. Plot the population dynamics for prey, predator, and the third species over time.
+Analyze the effect of the third species on the predator-prey oscillations, stability, or extinction scenarios.
+
 
 
 
