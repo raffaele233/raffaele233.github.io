@@ -5,9 +5,6 @@
 
 ## - **Individual Machine Learning Project**
 
-*Project Description:*
-
-[Add the description of your individual machine learning project here. This can include details about the project’s focus, techniques used, goals, and any relevant outcomes or challenges.]
 
 ## - **AI Lab** 
 [link to code](file:///Users/raffaelesimbari/Desktop/AI%20LAB/AILAB/AI_LAB/main_AILab.html)
@@ -72,6 +69,7 @@ The primary objective of this project is to identify key drivers of life expecta
 In this project, we extend the classical Lotka-Volterra model by revisiting and adapting it to handle more complex, real-world scenarios involving multiple species. The primary objective is to simulate predator-prey interactions in a multi-species environment, first with two species (a predator and a prey) and then with three species (introducing a third species to interact with both the predator and the prey). This approach allows for a more comprehensive understanding of ecological stability and species coexistence in ecosystems with more intricate food webs.
 
 ### Project Workflow
+
 
 
 
