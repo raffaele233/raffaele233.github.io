@@ -9,7 +9,8 @@
 
 [Add the description of your individual machine learning project here. This can include details about the project’s focus, techniques used, goals, and any relevant outcomes or challenges.]
 
-## - **AI Lab** [link to code](file:///Users/raffaelesimbari/Desktop/AI%20LAB/AILAB/AI_LAB/main_AILab.html)
+## - **AI Lab** 
+[link to code](file:///Users/raffaelesimbari/Desktop/AI%20LAB/AILAB/AI_LAB/main_AILab.html)
 
 ### Introduction
 This project applies various machine learning (ML) techniques to classify the **hypoxic** or **normoxic** state of cells using single-cell RNA sequencing (**scRNA-Seq**) data. The dataset includes two cancer cell lines: HCC1806 and MCF7, each sequenced with two distinct technologies: **SmartSeq** and **DropSeq**. These sequencing methods provide high-resolution insights into gene expression at the single-cell level, enabling us to understand how cells respond to hypoxic conditions.
@@ -36,7 +37,8 @@ In the final phase, the goal is to develop a more **generalizable classifier** t
 
 # **Statistic Projects**
 
-## - **Life Expectancy Analysis** [link to report](file:///Users/raffaelesimbari/Desktop/Analyzing_Life_Expectancy.pdf)
+## - **Life Expectancy Analysis** 
+[link to report](file:///Users/raffaelesimbari/Desktop/Analyzing_Life_Expectancy.pdf)
 
 ### Introduction
 This project explores global life expectancy trends using statistical analysis in R. The goal is to analyze how various factors (e.g., GDP, education, healthcare) influence life expectancy across countries.
@@ -63,7 +65,8 @@ The primary objective of this project is to identify key drivers of life expecta
 
 # **Numerical Methods Project** 
 
-## - **Revisiting Lotka-Volterra: Expanding Predator-Prey Dynamics to Multi-Species Systems** [link to code](file:///Users/raffaelesimbari/Desktop/Numerical%20methods/Project/Project.html)
+## - **Revisiting Lotka-Volterra: Expanding Predator-Prey Dynamics to Multi-Species Systems** 
+[link to code](file:///Users/raffaelesimbari/Desktop/Numerical%20methods/Project/Project.html)
 
 ### Introduction
 In this project, we extend the classical Lotka-Volterra model by revisiting and adapting it to handle more complex, real-world scenarios involving multiple species. The primary objective is to simulate predator-prey interactions in a multi-species environment, first with two species (a predator and a prey) and then with three species (introducing a third species to interact with both the predator and the prey). This approach allows for a more comprehensive understanding of ecological stability and species coexistence in ecosystems with more intricate food webs.
