@@ -65,7 +65,7 @@ In the final phase, the goal is to develop a more generalizable classifier that 
 # **Statistic Projects**
 
 ## - **Life Expectancy Analysis** 
-[link to report](file:///Users/raffaelesimbari/Desktop/Analyzing_Life_Expectancy.pdf)
+[link to report](https://raffaele233.github.io/Analyzing_Life_Expectancy.pdf)
 
 ### Introduction
 This project explores global life expectancy trends using statistical analysis in R. The goal is to analyze how various factors (e.g., GDP, education, healthcare) influence life expectancy across countries.
@@ -93,7 +93,7 @@ The primary objective of this project is to identify key drivers of life expecta
 # **Numerical Methods Projects** 
 
 ## - **Revisiting Lotka-Volterra: Expanding Predator-Prey Dynamics to Multi-Species Systems** 
-[link to code](file:///Users/raffaelesimbari/Desktop/Numerical%20methods/Project/Project.html)
+[link to code](https://raffaele233.github.io/Project.html)
 
 ### Introduction
 This project extends the classic Lotka-Volterra model to simulate predator-prey interactions in multi-species environments. Starting with a two-species system (predator and prey), we then introduce a third species to interact with both. This approach provides insights into ecological stability and species coexistence in more complex ecosystems.
