@@ -13,20 +13,20 @@ This project explores the use of Principal Component Analysis (PCA) for dimensio
 The project is divided into several key steps:
 
 1. *Data Analysis*
-   - Load and Explore Data: Import the dataset, check for missing values, and explore the distribution of features and labels.
-   - Data Preprocessing: Handle any missing values, standardize the features to ensure they're on the same scale, and split the data into training and testing sets.
+   - Import the dataset, check for missing values, and explore the distribution of features and labels.
+   - Handle any missing values, standardize the features to ensure they're on the same scale, and split the data into training and testing sets.
      
 2. *PCA (Principal Component Analysis)*
-   - Apply PCA: Perform PCA to reduce the dimensionality of the dataset.
-   - Explained Variance: Visualize the cumulative explained variance to determine how many components are needed to retain most of the information.
+   - Perform PCA to reduce the dimensionality of the dataset.
+   - Visualize the cumulative explained variance to determine how many components are needed to retain most of the information.
 
 3. *Logistic Regression*
-   - Train Model: Train a Logistic Regression model using both the original and PCA-transformed data.
-   - Hyperparameter Tuning: Optimize the model’s hyperparameters.
+   - Train a Logistic Regression model using both the original and PCA-transformed data.
+   - Optimize the model’s hyperparameters.
 
 4. *Random Forest (extra)*
-   - Feature Selection: use of Random Forest as an additional classifier to perform feature selection. By evaluating feature importance, identify the most relevant features for classification.
-   - Perform Logistic Regression: use of the key features based on the Random Forest model to train a Logistic Regression classifier and evaluate its performance.
+   - Use of Random Forest as an additional classifier to perform feature selection. By evaluating feature importance, identify the most relevant features for classification.
+   - Use of the key features based on the Random Forest model to train a Logistic Regression classifier and evaluate its performance.
 
 ### Final Objective
 The final objective of this project is to evaluate whether applying Principal Component Analysis (PCA) improves the performance of a Logistic Regression classifier. Using a Pipeline to streamline the process, the goal is to identify the optimal number of PCA components and fine-tune the classifier’s hyperparameters to achieve the best classification results.
