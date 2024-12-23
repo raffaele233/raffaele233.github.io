@@ -3,10 +3,30 @@
 
 # **Machine Learning Projects**
 
-## - **Individual Machine Learning Project**
+## - **Pilot Machine Learning Project**
 [link to code](file:///Users/raffaelesimbari/Desktop/M.L./Individual%20project/mldata_0003185670/ML_Individual_Project.html)
 
+### Introduction
+This project explores the use of Principal Component Analysis (PCA) for dimensionality reduction in combination with Logistic Regression to classify a dataset containing 1400 samples and 20 features. The goal is to determine if applying PCA improves classification performance, and if so, identify the optimal number of components and hyperparameters for the Logistic Regression model.
 
+### Project Overflow
+The project is divided into several key steps:
+
+1. *Data Analysis*
+   - Load and Explore Data: Import the dataset, check for missing values, and explore the distribution of features and labels.
+   - Data Preprocessing: Handle any missing values, standardize the features to ensure they're on the same scale, and split the data into training and testing sets.
+     
+2. *PCA (Principal Component Analysis)*
+   - Apply PCA: Perform PCA to reduce the dimensionality of the dataset.
+   - Explained Variance: Visualize the cumulative explained variance to determine how many components are needed to retain most of the information.
+
+3. *Logistic Regression*
+   - Train Model: Train a Logistic Regression model using both the original and PCA-transformed data.
+   - Hyperparameter Tuning: Optimize the model’s hyperparameters.
+
+### Final Objective
+The final objective of this project is to evaluate whether applying Principal Component Analysis (PCA) improves the performance of a Logistic Regression classifier. Using a Pipeline to streamline the process, the goal is to identify the optimal number of PCA components and fine-tune the classifier’s hyperparameters to achieve the best classification results.
+   
 ## - **AI Lab** 
 [link to code](file:///Users/raffaelesimbari/Desktop/AI%20LAB/AILAB/AI_LAB/main_AILab.html)
 
@@ -61,7 +81,7 @@ The primary objective of this project is to identify key drivers of life expecta
 
 ---
 
-# **Numerical Methods Project** 
+# **Numerical Methods Projects** 
 
 ## - **Revisiting Lotka-Volterra: Expanding Predator-Prey Dynamics to Multi-Species Systems** 
 [link to code](file:///Users/raffaelesimbari/Desktop/Numerical%20methods/Project/Project.html)
@@ -70,7 +90,6 @@ The primary objective of this project is to identify key drivers of life expecta
 In this project, we extend the classical Lotka-Volterra model by revisiting and adapting it to handle more complex, real-world scenarios involving multiple species. The primary objective is to simulate predator-prey interactions in a multi-species environment, first with two species (a predator and a prey) and then with three species (introducing a third species to interact with both the predator and the prey). This approach allows for a more comprehensive understanding of ecological stability and species coexistence in ecosystems with more intricate food webs.
 
 ### Project Workflow
-
 1. *Initial Two-Species Model*
    - Study the classic Lotka-Volterra model for a predator-prey system with two species, implement Euler method and Runge-Kutta 4th order method to solve the system of differential equations. Plot the populations of prey and predator over time to observe oscillations and interactions and compare the results between Euler and Runge-Kutta methods for accuracy.
 
@@ -79,6 +98,11 @@ In this project, we extend the classical Lotka-Volterra model by revisiting and 
 Solve the extended system with the third species using the same numerical methods and investigate how the third species interacts with both the prey and the predator populations.
 Observe how it impacts the dynamics of the original two-species system. Plot the population dynamics for prey, predator, and the third species over time.
 Analyze the effect of the third species on the predator-prey oscillations, stability, or extinction scenarios.
+
+### FInal Objective
+The primary objective of this project is to extend the classic Lotka-Volterra predator-prey model by introducing a third species and analyzing the resulting interactions within the ecosystem.
+
+
 
 
 
