@@ -37,7 +37,7 @@ At the end of the analysis we can compare the results and performances of Logist
 - Logistic Regression using data obtained by features selection of Random Forest
    
 ## - **AI Lab** 
-[link to code](https://raffaele233.github.io/main_AI_Lab.html)
+(code to request)
 
 ### Introduction
 This project applies various machine learning (ML) techniques to classify the hypoxic or normoxic state of cells using single-cell RNA sequencing (scRNA-Seq) data. The dataset includes two cancer cell lines: HCC1806 and MCF7, each sequenced with two distinct technologies: SmartSeq and DropSeq. These sequencing methods provide high-resolution insights into gene expression at the single-cell level, enabling us to understand how cells respond to hypoxic conditions.
